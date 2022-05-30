@@ -1,5 +1,5 @@
 <h1 align="center"> 𝙷𝚒 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝙱𝚒𝚋𝚎𝚔  </h1>
-<img align="right" alt="gif" src="https://media2.giphy.com/media/AYy9YYXHmsGek/giphy.gif" wifdth="300px" height="200px">
+<img align="right" alt="gif" src="https://media2.giphy.com/media/AYy9YYXHmsGek/giphy.gif" height="220px">
 
  *  🌱 𝙸'𝚖 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙼𝙴𝚁𝙽 𝚂𝚝𝚊𝚌k
 
