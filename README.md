@@ -1,5 +1,5 @@
 <h1 align="center"> 𝙷𝚒 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35x" width="35px">  𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝙱𝚒𝚋𝚎𝚔  </h1>
-<img align="right" alt="gif" src="https://media2.giphy.com/media/AYy9YYXHmsGek/giphy.gif" height="220px">
+<img align="right" alt="gif" src="https://media2.giphy.com/media/AYy9YYXHmsGek/giphy.gif" height="200px">
 
  *  🌱 𝙸'𝚖 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙼𝙴𝚁𝙽 𝚂𝚝𝚊𝚌k
 
@@ -38,7 +38,6 @@ src="https://img.shields.io/github/followers/morphhyy?logo=github&style=for-the-
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
 
