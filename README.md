@@ -1,7 +1,7 @@
 <h1 align="center"> 𝙷𝚒 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35x" width="35px">  𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝙱𝚒𝚋𝚎𝚔  </h1>
 <img align="right" alt="gif" src="https://media2.giphy.com/media/AYy9YYXHmsGek/giphy.gif" height="200px">
 
- *  🌱 𝙸'𝚖 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙼𝙴𝚁𝙽 𝚂𝚝𝚊𝚌k
+ *  🌱 𝙸'𝚖 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 Blockchain
 
  *  🧠  𝙸𝚗𝚝𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝙳𝚎𝚟𝙾𝚙𝚜
  
