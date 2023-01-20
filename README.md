@@ -1,4 +1,6 @@
-<h1 align="center"> 𝙷𝚒 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35x" width="35px">  𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝙱𝚒𝚋𝚎𝚔  </h1>
+<h1 align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Welcome+to+Bibek's+Profile" alt="Typing SVG" /></a>
+</h1>
 <img align="right" alt="gif" src="https://media2.giphy.com/media/AYy9YYXHmsGek/giphy.gif" height="200px">
 
  *  🌱 𝙸'𝚖 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙱𝚕𝚘𝚌𝚔𝚌𝚑𝚊𝚒𝚗
