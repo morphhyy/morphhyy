@@ -9,7 +9,7 @@
  
  *  ⚡  𝙻𝚒𝚗𝚞𝚡 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝
 
- *  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/98px-Archlinux-icon-crystal-64.svg.png?20151125181813" width="30px">&nbsp; 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑  
+ *  <img src="https://i.imgur.com/2eLeMt9.png" width="30px">&nbsp; 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑  
 
 
 <a href="https://www.twitter.com/morphhyy" target="_blank" rel="noreferrer"><img
