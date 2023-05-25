@@ -44,7 +44,7 @@ src="https://img.shields.io/github/followers/morphhyy?logo=github&style=for-the-
 
 
 ### 🎶 𝙻𝚒𝚜𝚝𝚎𝚗𝚒𝚗𝚐 𝚝𝚘 𝙼𝚞𝚜𝚒𝚌
-<p align="left"><a href="https://open.spotify.com/user/ptd39ulan9e25p598awxfsb6v?si=756a3d1d312f4033"><img src="https://spotify-playingg.herokuapp.com/"></a></p>
+<p align="left"><a href="https://open.spotify.com/user/ptd39ulan9e25p598awxfsb6v?si=756a3d1d312f4033"><img src="https://spotify-playing.onrender.com/"></a></p>
 
 
 ### 💻 𝙳𝚎𝚜𝚔𝚝𝚘𝚙
