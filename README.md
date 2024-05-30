@@ -1,9 +1,8 @@
 <h1 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Welcome+to+Bibek's+Profile" alt="Typing SVG" /></a>
 </h1>
-<img align="right" alt="gif" src="https://media2.giphy.com/media/AYy9YYXHmsGek/giphy.gif" height="200px">
 
- *  🧠  𝙸𝚗𝚝𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝙳𝚎𝚟𝙾𝚙𝚜
+ *  🧠  𝙸𝚗𝚝e𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝙳𝚎𝚟𝙾𝚙𝚜
  
  *  ⚡  𝙻𝚒𝚗𝚞𝚡 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝
 
