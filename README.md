@@ -62,7 +62,3 @@
 
 ### 💻 𝙳𝚎𝚜𝚔𝚝𝚘𝚙
 ![](images/arch.png)
-
-
-### 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎
-<p align="left"><a href="https://www.twitter.com/morphhyy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;<a href="https://linkedin.com/in/morphhyy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" height="32" /></a></p>
