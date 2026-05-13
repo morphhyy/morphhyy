@@ -26,17 +26,18 @@
 
 **𝙱𝚊𝚌𝚔𝚎𝚗𝚍**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,php,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,php,python,nestjs&theme=dark" />
 
 **𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎𝚜**
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase,mysql,sqlite,supabase,prisma&theme=dark" />
 
 **𝚃𝚘𝚘𝚕𝚜 & 𝙳𝚎𝚟𝙾𝚙𝚜**
 
-<img src="https://skillicons.dev/icons?i=git,vim,webpack,linux,bash,jest&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,vim,webpack,linux,bash,jest,docker,kubernetes,aws,github,vscode,vite&theme=dark" />
 
 
+<!--
 ### 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
 
 <p align="center">
@@ -54,6 +55,7 @@
 <p align="center">
 <a href="http://www.github.com/morphhyy"><img src="https://github-readme-activity-graph.vercel.app/graph?username=morphhyy&bg_color=0D1117&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </p>
+-->
 
 ### 💻 𝙳𝚎𝚜𝚔𝚝𝚘𝚙
 ![](images/arch.png)
