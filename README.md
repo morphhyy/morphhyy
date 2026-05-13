@@ -55,10 +55,5 @@
 <a href="http://www.github.com/morphhyy"><img src="https://github-readme-activity-graph.vercel.app/graph?username=morphhyy&bg_color=0D1117&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </p>
 
-
-### 🎶 𝙻𝚒𝚜𝚝𝚎𝚗𝚒𝚗𝚐 𝚝𝚘 𝙼𝚞𝚜𝚒𝚌
-### <p align="left"><a href="https://open.spotify.com/user/ptd39ulan9e25p598awxfsb6v?si=756a3d1d312f4033"><img src="https://spotify-playing.onrender.com/"></a></p>
-
-
 ### 💻 𝙳𝚎𝚜𝚔𝚝𝚘𝚙
 ![](images/arch.png)
